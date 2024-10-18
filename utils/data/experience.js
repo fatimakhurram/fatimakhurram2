@@ -7,7 +7,7 @@ export const experiences = [
   },
   {
     id: 2,
-    title: "Cyberescurity Trainee ",
+    title: "Cybersecurity Trainee ",
     company: "Corvit Networks",
     duration: "(Jun 2024 - Oct 2024)"
   },
